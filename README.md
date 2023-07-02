@@ -1,2 +1,2 @@
-# Clone_ChatGpt
+# ChatGpt_clone
 Connect ChatGPT API 
