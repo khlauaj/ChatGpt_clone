@@ -16,3 +16,13 @@ Connect ChatGPT API
 <img width="1269" alt="image" src="https://github.com/khlauaj/ChatGpt_clone/assets/39978937/0a1993d0-02c1-404f-a487-dade286e86fb">
 
 ---
+
+- In the code, you can paste your own API key (I hide mine key)
+- You can tune the model temperature, role, max_token or other parameters
+- The UI side is using html,css and javascript to clone Chatgpt layout and interaction
+
+<img width="1131" alt="Screenshot 2023-07-02 at 11 40 52 AM" src="https://github.com/khlauaj/ChatGpt_clone/assets/39978937/ce72fa54-f362-46ab-b057-47db70d6dcde">
+
+<img width="1399" alt="Screenshot 2023-07-02 at 11 41 29 AM" src="https://github.com/khlauaj/ChatGpt_clone/assets/39978937/ec84f55a-9872-44db-bdf1-00bb76812446">
+
+
